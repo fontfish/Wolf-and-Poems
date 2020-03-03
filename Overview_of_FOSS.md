@@ -1,6 +1,6 @@
 # A very rough and incomplete overview of FOSS vertical text support in the programs that I am aware support it.
 
-*Most of the below is rather garbled just now and I intend to improve on it.*
+*Most of the below is rather garbled just now and I intend to improve on it. I hope it is not taken as negativity so much as a critical look at what is available.*
 
 ##### CSS & html
 https://en.wikipedia.org/wiki/Cascading_Style_Sheets
@@ -24,4 +24,4 @@ Scribus has improved since I first attempted to use it, and I would happily reco
 
 #### In Short
 
-Vertical and RTL text support has improved massively, but is still limited to a select few programs and advanced features are rarely considered.
+Vertical and RTL text support has improved massively, but is still limited to a select few programs.
