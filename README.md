@@ -2,7 +2,6 @@
 
 These are a set of poems I translated (with much help) from Japanese in 2015 for a project that was funded by a youth arts program where I live. A friend then provided Scots translations, working together with me to strike a balance between all three languages. The project then involved typesetting and printing that work to produce a small book, for which tasks I had decided to use only FOSS software for both budget and proof of concept reasons.
 
-Support for more complex language layout has improved a little in implementation since then, but not enough where it matters.
 
 ## Tools
 
