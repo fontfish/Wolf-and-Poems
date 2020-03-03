@@ -17,7 +17,7 @@ I also hope to promote multi-cultural translation and communication, provide som
 
 Vertical text in proprietary software is, for the most part, limited to a select few programs. While I imagine those programs likely implement it well, they are still few and far between. This strikes me as an area where a move forward in free software could push a few boundaries.
 
-In Open Source software, most vertical text support is not implemented to the equivalent standard as horizontal text support within the same program. Theoretically, the implementation of (Pango)[https://pango.gnome.org/] and (Cairo)[https://www.cairographics.org/] should have made vertical text implementation a breeze, but as yet the ability to use it is rather limited.
+In Open Source software, most vertical text support is not implemented to the equivalent standard as horizontal text support within the same program. Theoretically, the implementation of [Pango](https://pango.gnome.org/) and [Cairo](https://www.cairographics.org/) should have made vertical text implementation a breeze, but as yet the ability to use it is rather limited.
 
 Several languages make use of vertical text on a regular basis in signage, book and media production, letter-writing and graphic design. At least one or two written languages use vertical text exclusively.
 
@@ -25,7 +25,7 @@ The FOSS world has the opportunity to allow cross-cultural and multilingual type
 
 With my own current level of programming ability, there is little I can do about this. In future, however, I hope to be able to contribute more to non-LTR text layout in Open Source software.
 
-### For an overview of vertical text features in some FOSS software, (see here)[https://github.com/fontfish/Wolf-and-Poems/Overview_of_FOSS.md].
+### For an overview of vertical text features in some FOSS software, [see here](https://github.com/fontfish/Wolf-and-Poems/blob/master/Overview_of_FOSS.md).
 
 ## With Thanks
 
