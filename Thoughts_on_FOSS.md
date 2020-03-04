@@ -27,6 +27,8 @@ https://en.wikipedia.org/wiki/Cascading_Style_Sheets
 
 CSS has implemented vertical text support very well, in a way which I think should perhaps be taken as an example when implementing vertical text features. Not only can vertical and RTL text be used in its own blocks of text, but even within lines of another text direction. East Asian language features such as ruby text are also supported.
 
+See [http://tategaki.github.io/](http://tategaki.github.io/) for some beautiful examples and explanation.
+
 
 ##### Inkscape
 https://inkscape.org/
