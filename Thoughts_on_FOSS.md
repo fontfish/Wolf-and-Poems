@@ -53,6 +53,10 @@ https://docs.google.com/
 
 For a company with the wherewithall, and reach that it has, Google's web-based document editor is completely lacking when it comes to anything more than RTL text support. For something so useful, it's something so limited. Google has also worked with Adobe to make a huge set of praiseworthy high-quality multi-language fonts (the Source Han/Noto fonts), but has only allowed the Pro version (Latin alphabet, Greek, Cyrillic) for use in Docs, which seems rather self-contradictory. It may be possible to write add-ons for Google Docs that allow vertical text or extended font use, but that is far from accessible to the average user. Considering the resources Google have available and the widespread use of this program, it's a disappointment that it is still so exclusively Western language-focused, though I expect that to change.
 
+##### Other
+
+Aside from the above, searching online finds almost exclusively one of three things: vertical text viewer Adroid apps, vertical text CSS and output of graphics files with vertical text.
+
 
 ### Brief Summary
 
