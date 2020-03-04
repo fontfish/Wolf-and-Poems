@@ -18,7 +18,19 @@ I also hope to promote multi-cultural translation and communication, provide som
 
 ## Tools
 
-Inkscape, FontForge, pdftk, LibreOffice
+I used LibreOffice initially to give myself a clear layout when translating the poems. Then I went into Inkscape to do the typesetting before outputting each page as a pdf using pdftk.
+
+For font design, I used FontForge.
+
+
+## Fonts
+
+For the English and Scots translations, I used [Linden Hill](https://fonts.google.com/specimen/Linden+Hill).
+
+For the Japanese poems, I used four fonts:
+For the kana text, I used a font entirely of my own design, made from scratch – Yue Mincho Kana (now [Alba Mincho Kana](https://github.com/fontfish/AlbaMinchoKana)).
+For the kanji text, I made two fonts containing only the kanji characters I needed, using [Hanazono Mincho](http://fonts.jp/hanazono/) as a skeleton to speed up design – HanamoyouMincho and HanamoyouMidashi. Both are named after a poem that I considered using in the colection but eventually decided not to.
+For the ruby text, I used [Gutenberg Labo's](https://gutenberg.osdn.jp/en/index.html) GL-Antique.
 
 
 ## With Thanks
