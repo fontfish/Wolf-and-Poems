@@ -1,0 +1,3 @@
+Remdinder of how to stitch pdf files together with pdftk.
+
+pdftk file01.pdf file02.pdf file3.pdf cat output new_file.pdf
