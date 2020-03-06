@@ -22,6 +22,10 @@ I used LibreOffice initially to give myself a clear layout when translating the 
 
 For font design, I used FontForge.
 
+#### pdftk useage
+
+`$ pdftk file01.pdf file02.pdf file03.pdf file&c.pdf cat output new_file.pdf`
+
 
 ## Fonts
 
