@@ -13,6 +13,8 @@ By uploading this to Github, I hope to explain some reasons as to why I think be
 
 I also hope to promote multi-cultural translation and communication, provide some examples of poetry translation from Japanese to English in the hope that someone may find them useful and, if possible, improve the relationship between open source software, translation and multicultural design and media. I would like to note that better support for RTL and vertical text also provides opportunity for interesting and useful design within software GUIs and layout.
 
+As is, there is currently a situation of anyone other than designers working with closed-source software being all but locked out of the ability to easily use what has been and remains such a huge part of their language's visual identity. For the sake of allowing greater compatibility between real-world and software interaction with written language, better support for vertical text is certainly necessary.
+
 ### For an overview of vertical text and other features in some FOSS software, [see here](https://github.com/fontfish/Wolf-and-Poems/blob/master/Thoughts_on_FOSS.md).
 
 

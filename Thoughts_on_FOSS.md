@@ -13,6 +13,15 @@ Several languages make use of vertical text on a regular basis in signage, book 
 With my current level of programming ability, there is little I can do about this. In future, however, I hope to be able to contribute more to both LTR and non-LTR text layout in Open Source software. My long-term goal is to eventually create a simple CJK vertical writing document editor.
 
 
+## Examples
+
+Some examples of where vertical text support might be needed or wanted. Here, I have used English and Japanese as example languages, but these could just as easily be Arabic and Chinese or any other horizontal vertical/dual-direction language.
+
+* A native English-speaking student studying English literature might need to place a picture of the original text of Beowulf alongside a typed transliteration. A student doing the same with a Japanese text, however, would have to do more work to move between the original vertical text and a horizontal digital transliteration.
+
+* A small charity organisation might want to be able to use vertical text on a flyer. For vertcial text in English, this would usually mean rotating the text box to simply make it “sideways”. In Japan, where the letters would need to be rotated individually, this may present the challenge of having to rearrange the text by hand.
+
+
 ### My own use of FOSS programs to typeset poems in multiple languages
 
 When putting together the book of poems I produced, I eventually settled on Inkscape as my favoured tool for typesetting multiple languages in multiple directions. At the time, I used Debian Testing to give me access to the newer features in Inkscape I needed, but which are now available in Debian Stable as well. In order to set the English and Scots translations, I set up one text frame for each, using another only to right-align some text or for the sake of a pleasing layout.
