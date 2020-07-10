@@ -4,22 +4,22 @@
 
 ## Current state of vertical text support in FOSS software
 
-Vertical text in proprietary software is, for the most part, limited to a select few programs. While I imagine those programs likely implement it well, they are still few and far between. This strikes me as an area where a move forward in free software could push a few boundaries.
+Vertical text in proprietary software is, for the most part, limited to a select few programs. While I imagine those programs likely implement it well (or at least functionally), they are still few and far between. This strikes me as an area where a move forward in free software could push a few boundaries.
 
-In Open Source software, prograpms that support vertical text are just as, if not more, limited. Most vertical text support is not implemented to the equivalent standard as horizontal text support within the same program. Theoretically, the implementation of [Pango](https://pango.gnome.org/) and [Cairo](https://www.cairographics.org/) should have made vertical text implementation a breeze, but as yet the ability to use it is rather limited.
+In Open Source software, prograpms that support vertical text are just as, if not more, limited. Most vertical text support is not implemented to the equivalent standard as horizontal text support within the same programs. Theoretically, the implementation of [Pango](https://pango.gnome.org/) and [Cairo](https://www.cairographics.org/) should have made vertical text implementation a breeze, but as yet the ability to use it is rather limited.
 
-Several languages make use of vertical text on a regular basis in signage, book and media production, letter-writing and graphic design. At least one or two written languages use vertical text exclusively. The FOSS world has the opportunity to allow cross-cultural and multilingual typesetting and publishing to be a much more accessible reality and I believe that it's a loss to not do so to the fullest extent possible. Free software should be about more than *just* software if it hopes to grow its sphere of application. Again, however, this is only my opinion.
+Several languages make use of vertical text on a regular basis in signage, book and media production, letter-writing and graphic design. At least one or two written languages use vertical text exclusively. The FOSS world has the opportunity to allow cross-cultural and multilingual typesetting and publishing to be a much more accessible reality and I believe that it is a loss to not do so to the fullest extent possible. Free software should be about more than *just* software if it hopes to grow its sphere of application. Again, however, this is only my opinion.
 
-With my current level of programming ability, there is little I can do about this. In future, however, I hope to be able to contribute more to both LTR and non-LTR text layout in Open Source software. My long-term goal is to eventually create a simple CJK vertical writing document editor.
+With my current level of programming ability, there is little I can do about this directly. In future, however, I hope to be able to contribute more to all kinds of text layout in Open Source software. My long-term goal is to eventually create a simple CJK vertical writing document editor.
 
 
 ## Examples
 
-Some examples of where vertical text support might be needed or wanted. Here, I have used English and Japanese as example languages, but these could just as easily be Arabic and Chinese or any other horizontal vertical/dual-direction language.
+Some examples of where vertical text support might be needed or wanted. Here, I have used English and Japanese as example languages, but these could just as easily be Arabic and Chinese or any other horizontal and vertical/dual-direction language.
 
-* A native English-speaking student studying English literature might need to place a picture of the original text of Beowulf alongside a typed transliteration. A student doing the same with a Japanese text, however, would have to do more work to move between the original vertical text and a horizontal digital transliteration.
+* A native English-speaking student studying English literature might need to place a picture of the original text of Beowulf alongside a typed transliteration. A student working in the same way with a picture of a piece of old Japanese text, however, would have to do more work to move between the original vertical text and a horizontal digital transliteration – I do not find this an issue, but am aware that some others do.
 
-* A small charity organisation might want to be able to use vertical text on a flyer. For vertcial text in English, this would usually mean rotating the text box to simply make it “sideways”. In Japan, where the letters would need to be rotated individually, this may present the challenge of having to rearrange the text by hand.
+* A small charity organisation, for instance, might want to be able to use vertical text on a flyer. For vertcial text in English, this would usually mean rotating the text box to simply make it “sideways”. In Japan, where the letters would need to be rotated individually, this may present the challenge of having to rearrange the text by hand.
 
 
 ### My own use of FOSS programs to typeset poems in multiple languages
@@ -48,25 +48,25 @@ This is the program I used to produce this poetry booklet. Inkscape has come a l
 ##### LibreOffice
 https://www.libreoffice.org/
 
-Libre Office has also improved in this area. Ruby text is supported and multiple text directions can even be implemented by using text boxes. Full parallel text support (for instance, a page split into two columns, one with vertical and one with horizontal text) would be a nice addition but is probably too specific a feature to reasonably hope for any time soon.
+Libre Office has also improved in this area. In Writer, ruby text is supported and multiple text directions can even be implemented by using text boxes. Full parallel text support (for instance, a page split into two columns, one with vertical and one with horizontal text) would be a nice addition but is probably too specific a feature to reasonably hope for any time soon. In Draw, vertical text is supported in DTP-style text boxes, but as far as I can tell is *only accessibly via the toolbar* and not via any dialog windows.
 
 
 ##### Scribus
 https://www.scribus.net/
 
-Scribus has improved since I first attempted to use it, and I would happily recommend its use in publishing simple LTR text. Typographically, however, it still has a way to go – no vertical text yet (though RTL is now implemented in the 1.5 testing versions. This is a program I'd really like to see move forward with further text support.
+Scribus has improved since I first attempted to use it, and I would happily recommend its use in publishing simple LTR text. Typographically, however, it still has a way to go – no vertical text yet (though RTL is now implemented in the 1.5 testing versions. This is a program I'd really like to see move forward with vertical text support.
 
 
 ##### Google Docs (non-FOSS – proprietary but available web-based software)
 https://docs.google.com/
 
-For a company with the wherewithall, and reach that it has, Google's web-based document editor is completely lacking when it comes to anything more than RTL text support. For something so useful, it's something so limited. Google has also worked with Adobe to make a huge set of praiseworthy high-quality multi-language fonts (the Source Han/Noto fonts), but has only allowed the Pro version (Latin alphabet, Greek, Cyrillic) for use in Docs, which seems rather self-contradictory. It may be possible to write add-ons for Google Docs that allow vertical text or extended font use, but that is far from accessible to the average user. Considering the resources Google have available and the widespread use of this program, it's a disappointment that it is still so exclusively Western language-focused, though I expect that to change.
+For a company with the wherewithall and reach that it has, Google's web-based document editor is completely lacking when it comes to anything more than RTL text support. For something so useful, it's something very limited. Google has also worked with Adobe to make a huge set of praiseworthy high-quality multi-language fonts (the Source Han/Noto fonts), but has only allowed the “Pro” version (Latin alphabet, Greek, Cyrillic) for use in Docs, which seems rather self-contradictory. It may be possible to write add-ons for Google Docs that allow vertical text or extended font use, but that is far from accessible to the average user. Considering the resources Google have available and the widespread use of this program, it's a disappointment that it is still so exclusively Western language-focused, though I expect that to change over time.
 
 ##### Other
 
-Aside from the above, searching online finds almost exclusively one of three things: vertical text viewer Adroid apps, vertical text CSS and output of graphics files with vertical text.
+Aside from the above, searching online finds almost exclusively one of three things: vertical text viewer Adroid apps (no editing), vertical text in CSS (web design/development) and output of graphics files (vector and raster) with vertical text.
 
 
 ### Brief Summary
 
-Vertical and RTL text support in both free and proprietary software has improved massively, but is still limited to a select few pieces of software. It seems that better vertical text support in programming bindings for GUI creation would help improve the ease of implementation. (I am aware that the GTK bindings allow vertical text on a label, for instance, but not in a text box or on a button.)
+Vertical and RTL text support in both free and proprietary software has improved massively, but is still limited to a select few pieces of software. It seems that better vertical text support in programming bindings for GUI creation would help improve the ease of implementation. (I am aware that GTK bindings allow vertical text on a label, for instance, but not in a text box or on a button.)
